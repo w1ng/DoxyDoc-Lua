@@ -1,0 +1,1 @@
+{"description": "A sublime text plugin for C++ document autocompletion", "url": "https://github.com/Rapptz/DoxyDoc", "platforms": ["*"], "version": "1.2.1", "sublime_text": "*", "dependencies": []}
